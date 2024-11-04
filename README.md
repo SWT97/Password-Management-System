@@ -1,2 +1,2 @@
 # Password-Management-System
-This password management system features a random password generator and allows users to store security questions associated with their registrations.
+With the growing number of apps requiring passwords, remembering them all can be quite a challenge. I’ve developed a password management system that features a random password generator and allows users to store security questions associated with their registrations. This system helps users store their passwords and generate unique ones for each app, simplifying the management of their logins.
